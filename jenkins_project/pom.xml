@@ -63,7 +63,7 @@
 	</dependencies>
 	<profiles>
 		<profile>
-			<id>>ST</id>
+			<id>ST</id>
 			<build>
 				<plugins>
 					<plugin>
@@ -80,7 +80,7 @@
 			</build>
 		</profile>
 		<profile>
-			<id>>RT</id>
+			<id>RT</id>
 			<build>
 				<plugins>
 					<plugin>
